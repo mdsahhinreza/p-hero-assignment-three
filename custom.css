@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@400&family=Work+Sans&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+@media (max-width:576px) {
+    .carousel-inner img{
+        width: 335px;
+        height: 262px;
+    }
+    .course-img{
+        width: 100%;
+        height: auto;
+    }
+}
